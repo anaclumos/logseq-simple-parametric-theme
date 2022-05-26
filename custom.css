@@ -1,5 +1,5 @@
 :root {
---ls-font-family: -apple-system, BlinkMacSystemFont, Helvetica, "Apple Color Emoji", Arial, sans-serif;
+--ls-font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, system-ui, -system-ui, sans-serif, 'Apple Color Emoji';
 --ls-page-text-size: .9em;
 --ls-page-title-size: 36px;
 }
